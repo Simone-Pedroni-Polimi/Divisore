@@ -1,2 +1,2 @@
 # Divisore
-Divisione in linguaggio VHDL
+VHDL language Divider
